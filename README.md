@@ -13,6 +13,9 @@ Hi there, welcome to my repository! I am a graduate student from a fashion desig
 <img align="left" alt="UnrealEngine" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"/>
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/>
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
+<img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg"/>
+<img align="left" alt="p5js" width="30px" style="padding-right:10px;" src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png"/>
+
 
 
 <!--
