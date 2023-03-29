@@ -2,7 +2,7 @@
 
 **`Creative Developer`**
 
-Hi there, welcome to my repository! I am a graduate student from a fashion design background🪡, and now pursuing Integrated Design and Media at Tandon NYU💻. In addition to the knowledge I gained in school, I am passionate about Machine Learning with Tensorflow, Python and Scikit-learn, and I enjoy spending my time exploring these topics. You may find some of the code I've `cook` in this repository.
+Hi there, welcome to my repository! I am a graduate student from a fashion design background🪡, and now pursuing Integrated Design and Media at Tandon NYU💻. In addition to the knowledge I gained in school, I am passionate about Machine Learning with Tensorflow, Python and Scikit-learn, and I enjoy spending my time exploring these topics. You may find some of the code I've `cook` in this repository. You may also visit my website for more info.
 
 ---
 
