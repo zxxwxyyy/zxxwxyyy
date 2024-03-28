@@ -1,8 +1,8 @@
 # Liqian Zhang
 
-**`Deep Learning`**
+**`AI Researcher / Engineer`**
 
-Hello and welcome to my repository! I am a graduate student with a background in fashion design 🪡, currently pursuing Master's of Integrated Design and Media at Tandon NYU 💻. In addition to the knowledge gained in school, I am passionate about exploring Deep Learning with TensorFlow, Pytorch, Python, and Scikit-learn, and I enjoy diving deeper into these topics. You may find some of the code I've created and "cooked" in this repository. Don't forget to visit my website for more information!
+Hello! I'm Liqian, an AI/ML Researcher and graduate student at NYU's Tandon School of Engineering, specializing in Integrated Design & Media. My journey through deep learning, coding, and virtual reality has led me to roles as a Teaching Assistant and Research Assistant, where I've explored the tasks of audio generation and separation. My passion for problem-solving drives me to delve into complex challenges, especially training large-scale models to unlock new possibilities. Beyond academics, my experience as a Production Coordinator has honed my project management skills, complementing my technical skills such as Python, TensorFlow, PyTorch, and more. 
 
 ---
 
